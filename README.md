@@ -42,11 +42,10 @@
 ## API Endpoints 🔗
 
 - **Recommended Shows:**  
-Azure Function Key: "https://gg-backend-assignment.azurewebsites.net/api/Events?code=FOX643kbHEAkyPbdd8nwNLkekHcL4z0hzWBGCd64Ur7mAzFuRCHeyQ==&type=reco"
 
 
 - **Upcoming Events (Paginated):**  
-Azure Function Key: "https://gg-backend-assignment.azurewebsites.net/api/Events?code=FOX643kbHEAkyPbdd8nwNLkekHcL4z0hzWBGCd64Ur7mAzFuRCHeyQ==&page=1&type=upcoming"
+
 
 > Lazy loading implemented to fetch additional pages on scroll  
 
